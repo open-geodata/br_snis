@@ -1,9 +1,7 @@
 # SNIS
 
+<br>
 
-O *Sistema Nacional de Informações sobre Saneamento* 
+O _Sistema Nacional de Informações sobre Saneamento_
 
 [SNIS](http://www.snis.gov.br/)
-
-
-
