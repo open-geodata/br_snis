@@ -2,6 +2,6 @@
 
 <br>
 
-O _Sistema Nacional de Informações sobre Saneamento_
+O [***Sistema Nacional de Informações sobre Saneamento*** (SNIS)](http://www.snis.gov.br/)
 
-[SNIS](http://www.snis.gov.br/)
+
