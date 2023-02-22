@@ -27,9 +27,12 @@ input_path_temp.mkdir(exist_ok=True)
 output_path = data_path / 'output'
 output_path.mkdir(exist_ok=True)
 
+<<<<<<< HEAD
 # Docs
 docs_path = project_path / 'docs'
 docs_path.mkdir(exist_ok=True)
 
+=======
+>>>>>>> 9f273e53d31b6e58cfafbfb829c36ce14640294d
 if __name__ == '__main__':
     print(project_path)
