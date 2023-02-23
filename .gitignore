@@ -1,12 +1,9 @@
-
-
-
-.ipynb_checkpoints
-.*
+# Data
 data/
 
-
-
+# IDES
+.vscode/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
