@@ -1,6 +1,6 @@
 # SNIS
 
-- [GitHub](https://github.com/open-geodata/br_snis)
+[GitHub](https://github.com/open-geodata/br_snis)
 
 <br>
 
